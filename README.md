@@ -11,7 +11,7 @@ The developed systems allow the user:
 
 User interaction with the system is handled by a Telegram Bot.
 
-For more information look at the presentation [Presentation.pdf](Presentation.pdf).
+For more information look at the [Presentation.pdf](Presentation.pdf).
 
 # Dataset
 
