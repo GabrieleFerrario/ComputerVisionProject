@@ -1,6 +1,6 @@
 # Overview
 
-This project is for the master course of Visual Information Processing and Management from Università Milano Bicocca.
+This project is for the master course of Visual Information Processing and Management from University Milano Bicocca.
 
 
 The developed systems allow the user:
