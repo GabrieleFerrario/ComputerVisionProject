@@ -1,4 +1,8 @@
 # Overview
+
+This project is for the master course of Visual Information Processing and Management from Università Milano Bicocca.
+
+
 The developed systems allow the user:
 - to retrieve products similar to a photo from the dataset
 - to apply a style to an image of a clothing
